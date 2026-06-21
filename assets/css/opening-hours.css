@@ -1,0 +1,20 @@
+/**
+ * Opening Hours Admin Styles
+ *
+ * @package ObydullahRestaurantCore
+ * @since   1.0.0
+ * @author  Shaik Obydullah
+ */
+.obirc-hours-row {
+  margin-bottom: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.obirc-hours-row .obirc-hours-day,
+.obirc-hours-row .obirc-hours-time {
+  flex: 2;
+}
+.obirc-hours-note-textarea {
+  width: 100%;
+}

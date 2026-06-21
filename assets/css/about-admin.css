@@ -1,0 +1,31 @@
+/**
+ * About Page Admin Styles
+ *
+ * @package ObydullahRestaurantCore
+ * @since   1.0.0
+ * @author  Shaik Obydullah
+ */
+
+.obirc-slide-row {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: #f9f9f9;
+}
+.image-preview img {
+  max-width: 200px;
+  max-height: 150px;
+  border: 1px solid #ddd;
+  padding: 2px;
+  margin: 5px 0;
+}
+.widefat {
+  width: 100%;
+}
+.large-text {
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}

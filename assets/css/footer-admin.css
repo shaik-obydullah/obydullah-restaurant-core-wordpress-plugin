@@ -1,0 +1,26 @@
+/**
+ * Footer Settings Admin Styles
+ *
+ * @package ObydullahRestaurantCore
+ * @since   1.0.0
+ * @author  Shaik Obydullah
+ */
+
+.obirc-footer-link-row {
+  margin-bottom: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.obirc-link-text {
+  flex: 1;
+}
+.obirc-link-url {
+  flex: 2;
+}
+.widefat {
+  width: 100%;
+}
+.large-text {
+  width: 100%;
+}
